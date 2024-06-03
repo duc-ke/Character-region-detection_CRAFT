@@ -3,8 +3,8 @@ Clovarai [CRAFT git](https://github.com/clovaai/CRAFT-pytorch?tab=readme-ov-file
 
 # Overview
 <img width="500" alt="teaser" src="./figures/a1_preview.jpg">
-<img width="500" alt="teaser" src="./figures/a1_preview.jpg">
 <img width="500" alt="teaser" src="./figures/hangul_memo_preview.jpg">
+<img width="500" alt="teaser" src="./figures/bar2_preview.jpg">
 
 # Info.
 * CRAFT에선 IP(Intellectual Property)문제로 train 코드를 제공하지 않으므로 pretrained model만 쓸 수 있음
