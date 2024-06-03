@@ -1,5 +1,5 @@
-# Character-region-detection_CRAFT
-Clovarai [CRAFT git](https://github.com/clovaai/CRAFT-pytorch?tab=readme-ov-file)(Character-Region Awareness For Text detection)를 기반으로 개별 문자 탐지 테스트
+# Character_detection_CRAFT
+NAVER Clova AI tream. [CRAFT git](https://github.com/clovaai/CRAFT-pytorch?tab=readme-ov-file)(Character-Region Awareness For Text detection)를 기반으로 개별 문자영역 탐지 테스트
 
 # Overview
 <img width="500" alt="teaser" src="./figures/a1_preview.jpg">
