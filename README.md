@@ -1,4 +1,4 @@
-# Character_detection_CRAFT
+# Character-region-detection_CRAFT
 Clovarai [CRAFT git](https://github.com/clovaai/CRAFT-pytorch?tab=readme-ov-file)(Character-Region Awareness For Text detection)를 기반으로 개별 문자 탐지 테스트
 
 # Overview
