@@ -1,0 +1,13 @@
+## 240603 updated config.
+
+# main params
+model_path: "./weights/craft_mlt_25k.pth"
+# img_folder: "./test_imgs2/"
+img_folder: "./test_barcodes"
+result_folder: './out_barcodes/'
+verbose: False
+
+# sub params (결과가 만족스럽지 않을 경우에만 변경.)
+text_threshold: 0.7           # text confidence threshold
+low_text: 0.4                 # text low-bound score
+
